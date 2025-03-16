@@ -1,6 +1,6 @@
 import requests, re
 
-url = "http://10.10.240.154/login"
+url = "http://10.10.32.157/login"
 
 data = {
     "username": "user",
